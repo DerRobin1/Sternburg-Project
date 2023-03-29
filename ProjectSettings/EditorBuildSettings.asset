@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hauptmenu.unity
+    guid: b2b3b53cd3e65564892a6efef82d9e9a
+  - enabled: 1
+    path: Assets/Scenes/Whack-A-Mole.unity
+    guid: bc6351a498524414395875e332f75ae9
+  - enabled: 1
+    path: Assets/Scenes/Flasche sortieren.unity
+    guid: ebf7256a7e61ae34782a2587fabe1a19
+  - enabled: 1
+    path: Assets/Scenes/Bierpong.unity
+    guid: b8e188a894c119948a0be86b69ef8f86
+  m_configObjects: {}
